@@ -1,0 +1,25 @@
+{
+  "name": "practica-final-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven20210083/Practica-Final-Devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven20210083/Practica-Final-Devops/issues"
+  },
+  "homepage": "https://github.com/steven20210083/Practica-Final-Devops#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.1.1"
+  }
+}
